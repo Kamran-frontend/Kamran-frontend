@@ -1,5 +1,5 @@
 # 💫 About Me:
-Certified Shopware Frontend Developer with a computer science degree from The University of Lahore. At elio GmbH, I improved digital experiences for clients like Cube, Douglas, Euroshop and Leuze. Skilled in Shopware 5 & 6, I create high-performing e-commerce solutions and responsive designs. Experienced in JavaScript (ES6), Vue.js, Twig, and Smarty, with a background in leading teams and freelance development. I focus on on-page SEO and delivering exceptional user experiences.
+A highly motivated Frontend Developer with a Computer Science degree from The University of Lahore. I have contributed to enhancing digital experiences at elio GmbH for notable clients like Cube, Douglas, Euroshop, and Leuze. With strong expertise in Shopware 5 & 6, HTML5/SCSS, Bootstrap, JavaScript (ES6), Vue.js, AngularJS, and WordPress, I build high-performing, mobile-first, fully optimized, and responsive e-commerce solutions. A collaborative team player who thrives in dynamic environments, I bring dedication and adaptability to every project.
 
 
 ## 🌐 Socials:
